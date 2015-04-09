@@ -16,6 +16,6 @@ curl --referer http://buttons-for-website.com http://www.rokson.co
 ```
 
 ## Contribution
-Anyone is more than welcome to add new referrer spam websites to this list. The only thing I'd like you to do when making a PR is to not make this code any more wider, keep it within the current width if you add any more domains.
+Anyone is more than welcome to add new referrer spam websites to this list.
 
 Thank you! :)
